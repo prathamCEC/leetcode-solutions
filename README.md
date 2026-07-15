@@ -94,12 +94,18 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/prathamCEC/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/prathamCEC/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/prathamCEC/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/prathamCEC/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/prathamCEC/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prathamCEC/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/prathamCEC/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
