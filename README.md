@@ -74,6 +74,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prathamCEC/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prathamCEC/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prathamCEC/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,4 +98,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/prathamCEC/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prathamCEC/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
