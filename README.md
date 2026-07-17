@@ -85,6 +85,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prathamCEC/leetcode-solutions/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/prathamCEC/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/prathamCEC/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -117,9 +118,22 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prathamCEC/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/prathamCEC/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prathamCEC/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prathamCEC/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prathamCEC/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
