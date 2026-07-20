@@ -91,6 +91,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prathamCEC/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/prathamCEC/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/prathamCEC/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -126,6 +127,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/prathamCEC/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prathamCEC/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/prathamCEC/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
