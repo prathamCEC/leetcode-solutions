@@ -74,6 +74,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prathamCEC/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prathamCEC/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prathamCEC/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prathamCEC/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -99,6 +100,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/prathamCEC/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prathamCEC/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prathamCEC/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/prathamCEC/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -122,6 +124,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/prathamCEC/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prathamCEC/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prathamCEC/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Number Theory
 |  |
 | ------- |
