@@ -75,6 +75,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathamCEC/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/prathamCEC/leetcode-solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prathamCEC/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prathamCEC/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prathamCEC/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -107,6 +108,7 @@ Happy Coding! 🚀
 | [0643-maximum-average-subarray-i](https://github.com/prathamCEC/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/prathamCEC/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/prathamCEC/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/prathamCEC/leetcode-solutions/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -172,6 +174,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/prathamCEC/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/prathamCEC/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prathamCEC/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/prathamCEC/leetcode-solutions/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -203,4 +206,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/prathamCEC/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prathamCEC/leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prathamCEC/leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prathamCEC/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
