@@ -223,4 +223,20 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prathamCEC/leetcode-solutions/tree/master/0877-stone-game) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/prathamCEC/leetcode-solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/prathamCEC/leetcode-solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/prathamCEC/leetcode-solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/prathamCEC/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
