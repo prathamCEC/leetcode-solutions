@@ -257,4 +257,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/prathamCEC/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/prathamCEC/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
