@@ -189,6 +189,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prathamCEC/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/prathamCEC/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -256,6 +257,7 @@ Happy Coding! 🚀
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/prathamCEC/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/prathamCEC/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 ## Database
 |  |
@@ -264,4 +266,8 @@ Happy Coding! 🚀
 | [0176-second-highest-salary](https://github.com/prathamCEC/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/prathamCEC/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/prathamCEC/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/prathamCEC/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
