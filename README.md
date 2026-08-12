@@ -73,6 +73,7 @@ Happy Coding! 🚀
 | [0007-reverse-integer](https://github.com/prathamCEC/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/prathamCEC/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathamCEC/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/prathamCEC/leetcode-solutions/tree/master/0877-stone-game) |
@@ -145,6 +146,7 @@ Happy Coding! 🚀
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/prathamCEC/leetcode-solutions/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prathamCEC/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -253,6 +255,7 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/prathamCEC/leetcode-solutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Design
 |  |
