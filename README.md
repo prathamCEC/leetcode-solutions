@@ -298,6 +298,7 @@ Happy Coding! 🚀
 | [1179-reformat-department-table](https://github.com/prathamCEC/leetcode-solutions/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/prathamCEC/leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/prathamCEC/leetcode-solutions/tree/master/1251-average-selling-price) |
+| [1757-recyclable-and-low-fat-products](https://github.com/prathamCEC/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Queue
 |  |
 | ------- |
