@@ -299,6 +299,7 @@ Happy Coding! 🚀
 | [1211-queries-quality-and-percentage](https://github.com/prathamCEC/leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/prathamCEC/leetcode-solutions/tree/master/1251-average-selling-price) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/prathamCEC/leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1693-daily-leads-and-partners](https://github.com/prathamCEC/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/prathamCEC/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Queue
 |  |
