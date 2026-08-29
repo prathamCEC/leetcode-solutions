@@ -118,6 +118,7 @@ Happy Coding! 🚀
 | [0875-koko-eating-bananas](https://github.com/prathamCEC/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/prathamCEC/leetcode-solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [0941-valid-mountain-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prathamCEC/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1929-concatenation-of-array) |
