@@ -165,6 +165,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/prathamCEC/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0796-rotate-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -318,4 +319,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prathamCEC/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
