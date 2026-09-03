@@ -82,6 +82,7 @@ Happy Coding! 🚀
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prathamCEC/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prathamCEC/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prathamCEC/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/prathamCEC/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Happy Coding! 🚀
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prathamCEC/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/prathamCEC/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
