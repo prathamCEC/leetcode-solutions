@@ -100,6 +100,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/prathamCEC/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/prathamCEC/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/prathamCEC/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/prathamCEC/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/prathamCEC/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/prathamCEC/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -367,4 +368,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prathamCEC/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/prathamCEC/leetcode-solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/prathamCEC/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
