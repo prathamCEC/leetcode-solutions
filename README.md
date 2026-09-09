@@ -110,6 +110,7 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamCEC/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prathamCEC/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/prathamCEC/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/prathamCEC/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/prathamCEC/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0268-missing-number) |
@@ -276,12 +277,14 @@ Happy Coding! 🚀
 | [0100-same-tree](https://github.com/prathamCEC/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prathamCEC/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prathamCEC/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/prathamCEC/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prathamCEC/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prathamCEC/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prathamCEC/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/prathamCEC/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -376,4 +379,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/prathamCEC/leetcode-solutions/tree/master/0051-n-queens) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/prathamCEC/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/prathamCEC/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
