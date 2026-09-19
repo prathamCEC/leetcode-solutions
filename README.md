@@ -74,6 +74,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/prathamCEC/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/prathamCEC/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathamCEC/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -152,6 +153,7 @@ Happy Coding! 🚀
 | [0041-first-missing-positive](https://github.com/prathamCEC/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/prathamCEC/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/prathamCEC/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/prathamCEC/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prathamCEC/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/prathamCEC/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -204,6 +206,7 @@ Happy Coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamCEC/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/prathamCEC/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -392,6 +395,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prathamCEC/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0202-happy-number) |
 ## Backtracking
 |  |
 | ------- |
