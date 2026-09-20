@@ -137,6 +137,7 @@ Happy Coding! 🚀
 | [1929-concatenation-of-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/prathamCEC/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prathamCEC/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/prathamCEC/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -318,6 +319,7 @@ Happy Coding! 🚀
 | ------- |
 | [0258-add-digits](https://github.com/prathamCEC/leetcode-solutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/prathamCEC/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Design
 |  |
 | ------- |
