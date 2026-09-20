@@ -412,4 +412,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prathamCEC/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prathamCEC/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
