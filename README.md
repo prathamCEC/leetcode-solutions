@@ -75,6 +75,7 @@ Happy Coding! 🚀
 | [0066-plus-one](https://github.com/prathamCEC/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/prathamCEC/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prathamCEC/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathamCEC/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -90,6 +91,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0136-single-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/prathamCEC/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prathamCEC/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
@@ -388,6 +390,7 @@ Happy Coding! 🚀
 | [0021-merge-two-sorted-lists](https://github.com/prathamCEC/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/prathamCEC/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/prathamCEC/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/prathamCEC/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Quicksort
 |  |
 | ------- |
