@@ -201,6 +201,7 @@ Happy Coding! 🚀
 | [0796-rotate-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prathamCEC/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +254,7 @@ Happy Coding! 🚀
 | [0739-daily-temperatures](https://github.com/prathamCEC/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prathamCEC/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -331,6 +333,7 @@ Happy Coding! 🚀
 | ------- |
 | [0258-add-digits](https://github.com/prathamCEC/leetcode-solutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/prathamCEC/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Design
 |  |
