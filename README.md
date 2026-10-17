@@ -110,6 +110,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/prathamCEC/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/prathamCEC/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/prathamCEC/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/prathamCEC/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/prathamCEC/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/prathamCEC/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -256,6 +257,7 @@ Happy Coding! 🚀
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prathamCEC/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/prathamCEC/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/prathamCEC/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prathamCEC/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prathamCEC/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/prathamCEC/leetcode-solutions/tree/master/0877-stone-game) |
@@ -278,6 +280,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prathamCEC/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/prathamCEC/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prathamCEC/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Divide and Conquer
 |  |
