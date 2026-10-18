@@ -117,6 +117,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prathamCEC/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prathamCEC/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/prathamCEC/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamCEC/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prathamCEC/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -245,6 +246,7 @@ Happy Coding! 🚀
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/prathamCEC/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/prathamCEC/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamCEC/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prathamCEC/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/prathamCEC/leetcode-solutions/tree/master/0268-missing-number) |
