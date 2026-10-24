@@ -213,6 +213,7 @@ Happy Coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prathamCEC/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prathamCEC/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
@@ -302,6 +303,7 @@ Happy Coding! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/prathamCEC/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/prathamCEC/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/prathamCEC/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prathamCEC/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Interactive
 |  |
 | ------- |
