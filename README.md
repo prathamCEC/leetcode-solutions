@@ -147,6 +147,7 @@ Happy Coding! 🚀
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prathamCEC/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1748-sum-of-unique-elements](https://github.com/prathamCEC/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/prathamCEC/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/prathamCEC/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prathamCEC/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -176,6 +177,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/prathamCEC/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/prathamCEC/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1748-sum-of-unique-elements](https://github.com/prathamCEC/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Happy Coding! 🚀
 | ------- |
 | [0169-majority-element](https://github.com/prathamCEC/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/prathamCEC/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/prathamCEC/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Sliding Window
 |  |
 | ------- |
